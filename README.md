@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Checkout+my+GitHub+profile!;&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Title text">
+</p>
 
-<!--
-**storvik/storvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://waylonwalker.com/latest"><img align='left' src="https://github-readme-stats.vercel.app/api?username=storvik&rank_icon=percentile&theme=gotham&show_icons=true"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://waylonwalker.com/latest"><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=storvik&theme=gotham"></a>
+</p>
