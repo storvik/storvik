@@ -4,10 +4,18 @@
 
 <p align="center">
   <img height="24" width="24" src="https://cdn.simpleicons.org/c/black/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" width="24" src="https://cdn.simpleicons.org/cplusplus/black/white" />
+  &nbsp;&nbsp;&nbsp;
   <img height="24" width="24" src="https://cdn.simpleicons.org/gnuemacs/black/white" />
+  &nbsp;&nbsp;&nbsp;
   <img height="24" width="24" src="https://cdn.simpleicons.org/go/black/white" />
+  &nbsp;&nbsp;&nbsp;
   <img height="24" width="24" src="https://cdn.simpleicons.org/dart/black/white" />
+  &nbsp;&nbsp;&nbsp;
   <img height="24" width="24" src="https://cdn.simpleicons.org/flutter/black/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" width="24" src="https://cdn.simpleicons.org/nixos/black/white" />
 </p>
 
 ---
